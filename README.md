@@ -1,4 +1,4 @@
-# Python-Portfolio-Projects
+# Movie Correlation
 This is a portfolio of python projects finished and also in progress. it includes all analysis carried out from the preliminary stage to the final stage. All project tells a story , do well to readME.
 
 ## Project Overview
